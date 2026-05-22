@@ -4,7 +4,7 @@ matriz = []
 
 for i in range(2):  
     fila = []   
-    for j in range(2):        
+    for j in range(2):    
         numero = random.randint(1, 20)
         fila.append(numero)      
     matriz.append(fila)    
